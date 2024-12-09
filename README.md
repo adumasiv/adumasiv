@@ -34,9 +34,31 @@ Eastern Michigan University - Ypsilanti, MI
 ### 🛠️ Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-02569B?logo=api&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
+
+![Command Line](https://img.shields.io/badge/-Command_Line-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Computer Networking](https://img.shields.io/badge/-Computer_Networking-0078D7?style=for-the-badge)
 
 ---
 
@@ -51,19 +73,19 @@ Eastern Michigan University - Ypsilanti, MI
 ---
 
 ### 🌟 Notable Projects:
-#### **AI Data Labeling Tool**
+#### **[AI Data Labeling Tool](https://github.com/adumasiv/ai-data-labeling-tool)**
 - Enhanced AI model development by tagging audio data securely with Google OAuth.
 - Built using Python, PostgreSQL, and React.
 
-#### **College Football Score Prediction**
+#### **[College Football Score Prediction](https://github.com/adumasiv/college-football-score-prediction)**
 - Developed a deep learning model to predict game scores and season win totals.
 - Implemented a Feedforward Neural Network (FFNN) with PyTorch and data processing in Pandas, NumPy, and Scikit-learn.
 
-#### **MLB Statistics Helper Tool**
+#### **[MLB Statistics Helper Tool](https://github.com/adumasiv/mlb-statistics-helper-tool)**
 - Designed a program for player comparisons and strategic team building in fantasy baseball.
 - Incorporated dynamic algorithms for custom evaluations.
 
-#### **Flask API**
+#### **[Flask API](https://github.com/adumasiv/flask-api-project)**
 - Created a user-friendly API for efficient data retrieval and addition via GET and POST requests.
 
 ---
