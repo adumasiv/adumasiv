@@ -112,6 +112,10 @@ Eastern Michigan University Student Center - Ypsilanti, MI (Aug 2017 - Present)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adumasiv&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adumasiv&layout=compact&theme=radical)
 
+---  
+
+### 🌟 Fun Facts: - 🕹️ I'm a gamer who loves strategy games. - 🌌 I enjoy stargazing and astrophotography. - 🎶 Music keeps me focused while coding.
+
 ---
 
 ### 📫 Let's Connect:
