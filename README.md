@@ -73,7 +73,7 @@ Eastern Michigan University - Ypsilanti, MI
 ---
 
 ### 🌟 Notable Projects:
-#### **[AI Data Labeling Tool]**
+#### **AI Data Labeling Tool**
 - Enhanced AI model development by tagging audio data securely with Google OAuth.
 - Built using Python, PostgreSQL, and React.
 
