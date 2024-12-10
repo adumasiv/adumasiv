@@ -73,19 +73,19 @@ Eastern Michigan University - Ypsilanti, MI
 ---
 
 ### 🌟 Notable Projects:
-#### **[AI Data Labeling Tool](https://github.com/adumasiv/ai-data-labeling-tool)**
+#### **[AI Data Labeling Tool]**
 - Enhanced AI model development by tagging audio data securely with Google OAuth.
 - Built using Python, PostgreSQL, and React.
 
-#### **[College Football Score Prediction](https://github.com/adumasiv/college-football-score-prediction)**
+#### **[College Football Score Prediction](https://github.com/adumasiv/CFB_FNN_MK1.git)**
 - Developed a deep learning model to predict game scores and season win totals.
 - Implemented a Feedforward Neural Network (FFNN) with PyTorch and data processing in Pandas, NumPy, and Scikit-learn.
 
-#### **[MLB Statistics Helper Tool](https://github.com/adumasiv/mlb-statistics-helper-tool)**
+#### **[MLB Statistics Helper Tool](https://github.com/emu-computer-science/fantasy-baseball-draft-assistant-polidori_alsouaijet_dumas.git)**
 - Designed a program for player comparisons and strategic team building in fantasy baseball.
 - Incorporated dynamic algorithms for custom evaluations.
 
-#### **[Flask API](https://github.com/adumasiv/flask-api-project)**
+#### **[Flask API](https://github.com/adumasiv/API-Solution.git)**
 - Created a user-friendly API for efficient data retrieval and addition via GET and POST requests.
 
 ---
