@@ -16,7 +16,7 @@ I am an innovative software developer with expertise in Python, Java, and modern
 ### 🏫 Education:
 **Bachelor of Science in Computer Science**  
 Eastern Michigan University - Ypsilanti, MI  
-📅 Expected Graduation: December 2024  
+📅 Graduated: December 2024  
 📜 **Awards/Honors:**  
 - EFO Scholarship (Full Ride)  
 - Ervin Industries Scholarship  
