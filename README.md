@@ -109,7 +109,6 @@ Eastern Michigan University Student Center - Ypsilanti, MI (Aug 2017 - Present)
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adumasiv&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adumasiv&layout=compact&theme=radical)
 
 ---  
