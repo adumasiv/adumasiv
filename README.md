@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Avery Dumas IV!
 
-🎓 Senior in Computer Science | 💻 Full-Stack Developer | 🌟 Data Enthusiast
+🎓 Bachelor of Science in Computer Science | 💻 Full-Stack Developer | 🌟 Data Enthusiast
 
 I am an innovative software developer with expertise in Python, Java, and modern frameworks like PyTorch and React. Passionate about building scalable software solutions and contributing to data-driven projects.
 
