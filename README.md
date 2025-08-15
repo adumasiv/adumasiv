@@ -81,7 +81,7 @@ Eastern Michigan University - Ypsilanti, MI
 - Developed a deep learning model to predict game scores and season win totals.
 - Implemented a Feedforward Neural Network (FFNN) with PyTorch and data processing in Pandas, NumPy, and Scikit-learn.
 
-#### **[MLB Statistics Helper Tool](https://github.com/emu-computer-science/fantasy-baseball-draft-assistant-polidori_alsouaijet_dumas.git)**
+#### **[MLB Statistics Helper Tool](https://github.com/adumasiv/MLB_Statistics_Helper_Tool.git)**
 - Designed a program for player comparisons and strategic team building in fantasy baseball.
 - Incorporated dynamic algorithms for custom evaluations.
 
